@@ -165,6 +165,18 @@ Plant-Prod Chelated:
   Cu:     0.001
   tsp:    4480
   target: Fe
+CIFO MIKROM:
+  Mg:     0.0181
+  dGH:    0.00414
+  B:      0.005
+  Cu:     0.005
+  Zn:     0.01
+  Mn:     0.04
+  Mo:     0.002
+  SO3:    0.06
+  Fe:     0.04
+  tsp:    5170
+  target: Fe
 Dutch Nutrient Formula:
   Fe:     0.07
   B:      0.013
@@ -222,21 +234,3 @@ MnSO4.H2O:
   tsp:    7490
   sol:    393
   target: Mn
-INTERMAG Mikro:
-  B:      0.2
-  Cu:     0.1
-  Fe:     1.3
-  Mn:     0.5
-  Mo:     0.03
-  Zn:     0.1
-  tsp:    5000
-  target: Fe
-INTERMAG Mikro Plus:
-  B:      0.24
-  Cu:     0.13
-  Fe:     2.08
-  Mn:     0.87
-  Mo:     0.05
-  Zn:     0.3
-  tsp:    5000
-  target: Fe
